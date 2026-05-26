@@ -7,6 +7,8 @@ Engenheiro de software com foco no desenvolvimento de ecossistemas backend robus
 Atualmente, dedico-me à engenharia de soluções escaláveis e ao desenvolvimento de arquiteturas modernas que unem o estado da arte do ecossistema Node.js a frontends altamente performáticos.
 
 ---
+![Snake animation](https://github.com/lucier/lucier/blob/output/github-contribution-grid-snake.svg)
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
