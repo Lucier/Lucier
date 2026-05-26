@@ -56,7 +56,7 @@ Atualmente, dedico-me à engenharia de soluções escaláveis e ao desenvolvimen
 Deseja discutir sobre arquitetura de software, novas tecnologias ou oportunidades de projetos? Vamos conversar!
 
 - **LinkedIn:** [linkedin.com/in/lucier-lima](www.linkedin.com/in/lucier-ferreira-lima-a2a43882) <!-- Substitua pelo seu link real -->
-- **E-mail:** [seu.email@provedor.com](mailto:lucierflima@gmail.com) <!-- Substitua pelo seu email real -->
+- **E-mail:** [lucierflima@gmail.com](mailto:lucierflima@gmail.com) <!-- Substitua pelo seu email real -->
 - **Localização:** Piauí, Brasil 🇧🇷
 
 ---
